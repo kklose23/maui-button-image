@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MonkeyFinder.app/MonkeyFinder">
+      <BCSymbolMapName>MonkeyFinder.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MonkeyFinder.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>\Users\kevin.klose\Library\Caches\Xamarin\mtbs\builds\MonkeyFinder\7fe4369529f16f53d863cea476db4c6994d6d81cc8a783b037bbfd384ce83d8d\obj\Debug\net7.0-ios\iossimulator-x64\mtouch-symbols.list</SymbolFile>
+      <DSymName>MonkeyFinder.app.dSYM</DSymName>
+      <SourceProjectPath>C:\Source\maui-issues\imagebutton-ios\MonkeyFinder</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
